@@ -52,6 +52,10 @@ header{
 padding-top: 25px;
 
 }
+
+.space-marging{
+    margin-bottom: 10px;
+}
 .btn{
     border: 5px solid transparent;
     padding: 500 rem 100 rem;
