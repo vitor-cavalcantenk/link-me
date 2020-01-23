@@ -2,6 +2,13 @@
 html,body{
     width: 100%;
     height: 100%;
+
+    font-family: 'Gelasio', serif;
+}
+
+a,button{
+
+    font-family: 'Gelasio', serif;
 }
 
 
@@ -57,4 +64,9 @@ header{
 
 .space-margin{
     margin-bottom: 10px;
+}
+
+p{
+    font-family: 'Gelasio', serif;
+
 }
