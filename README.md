@@ -5,8 +5,13 @@
 
 **Tecnologias utilizadas:**
 >HTML
+
 >CSS
+
 >JavaScript
+
 >Firebase - para envio de mensagem
+
 >Google Fonts
+
 >Google Analytics
