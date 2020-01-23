@@ -6,14 +6,9 @@
 **Demo:**[Link-me](https://yiehx2.github.io/link-me/)
 
 **Tecnologias utilizadas:**
->HTML
-
->CSS
-
->JavaScript
-
->Firebase - para envio de mensagem
-
->Google Fonts
-
->Google Analytics
+>HTML  
+>CSS  
+>JavaScript  
+>Firebase - para envio de mensagem  
+>Google Fonts  
+>Google Analytics  
